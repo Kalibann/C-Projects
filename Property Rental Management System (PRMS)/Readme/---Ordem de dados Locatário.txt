@@ -1,0 +1,14 @@
+Cod Registro Locatário
+Nome Locatário
+Gênero
+CPF
+Tipo Telefone [0-Fixo|1-Celular]
+Telefone
+País
+Estado
+Cidade
+Bairro
+Logradouro
+Número
+CEP
+Existência de Fiador [0-Não|1-Sim]

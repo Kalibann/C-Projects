@@ -1,0 +1,28 @@
+Cod Registro Imóvel
+Nome Imóvel
+Valor Imóvel
+_________________________________________
+Cod Registro Locatário
+Nome Locatário
+Gênero
+CPF
+Tipo Telefone [0-Fixo|1-Celular]
+Telefone
+País
+Estado
+Cidade
+Bairro
+Logradouro
+Número
+CEP
+Existência de Fiador [0-Não|1-Sim]
+____________________________________
+If(Existência de Fiador == 0):
+Tipo de Calção [0-Cheque|1-Dinheiro|2-Cartão]
+Valor Calção
+
+If(Existência de Fiador == 1):
+Nome Fiador
+CPF Fiador
+Tipo Telefone Fiador[0-Fixo|1-Celular]
+Telefone Fiador
