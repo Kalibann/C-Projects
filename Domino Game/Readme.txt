@@ -1,2 +1,4 @@
 Jogo de Dominó simples desenvolvido em linguagem C utilizando
-conceitos aprendidos em APC1/LAB1, no curso de Ciência da Computação.
+conceitos básicos.
+Projeto Final da disciplina "Algorítmos e Programação de Computadores 1",
+do curso "Ciência da Computação" da Universidade Federal de Goiás - Regional Catalão.
